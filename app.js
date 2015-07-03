@@ -5,7 +5,7 @@
 var Parse 		= require('parse').Parse,
 	_Promise	= require('promise');
 
-/* Parse IDs */
+/* Parse IDs (replace with your own id's from Parse.com ... it's free!) */
 var APP_ID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 var JS_KEY = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy";
 
