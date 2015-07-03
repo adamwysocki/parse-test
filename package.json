@@ -1,0 +1,15 @@
+{
+  "name": "parse-test",
+  "version": "0.0.0",
+  "description": "Parse javascript example written in Node.js with promises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "promise": "~7.0.3",
+    "parse": "~1.4.2"
+  }
+}
