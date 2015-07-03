@@ -86,10 +86,10 @@ function findPlayerData(name) {
 /* Do the save and query as promises */
 savePlayerData(1337, "Sean Plott", false).then(function(data){
 	
-	return findPlayerData("Sean Plott");
+    return findPlayerData("Sean Plott");
 	
 }).then(function(result){
 	
-	console.log('done');
+    console.log('done');
 	
 });
